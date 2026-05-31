@@ -1,0 +1,9 @@
+
+*.log
+.git
+.idea
+.vscode
+# Allow Maven Wrapper files required by Dockerfile
+!.mvn/
+!mvnw
+!mvnw.cmd
