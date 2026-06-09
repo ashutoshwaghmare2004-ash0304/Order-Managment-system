@@ -142,11 +142,9 @@ Docker and PostgreSQL are only needed if you choose the PostgreSQL/Docker setup.
 
 Clone the project:
 
-```bash
-git clone https://github.com/imrajeevnayan/Food-Fiesta.git
-cd Food-Fiesta
 ```
-
+cd Food-Fiesta
+````
 Run the application:
 
 ```bash
